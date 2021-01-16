@@ -3,9 +3,9 @@
 The app changes the text color (Hello) to orange when the button is clicked. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://i.imgur.com/BXBLd2n.gif)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
